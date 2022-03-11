@@ -1,4 +1,4 @@
-import ShowThumbnail from "./ShowThumbnail.jsx";
+import ShowThumbnail from "./ShowThumbnail.js";
 
 function ShowsCollection({ results, title }){
   return (
