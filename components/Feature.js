@@ -1,6 +1,6 @@
 
 
-const Feature = ()=> {
+function Feature  () {
   return (
     <section className="relative">
       <Head>

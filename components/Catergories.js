@@ -1,5 +1,5 @@
 import Image from 'next/image'
-const Catergories=()=> {
+function Catergories() {
   return (
     <section className="mx-auto mt-10 flex max-w-[1400px] flex-col items-center justify-center gap-6 px-8 md:flex-row">
       <div className="catergories group relative h-44 w-44">

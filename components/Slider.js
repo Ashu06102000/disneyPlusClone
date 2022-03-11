@@ -1,6 +1,6 @@
 import { Carousel } from 'react-responsive-carousel'
 import "react-responsive-carousel/lib/styles/carousel.min.css"
-const Slider=()=> {
+function Slider() {
   return (
     <section className='relative mt-6 shadow-2xl max-w-screen-2xl mx-auto '>
       <Carousel
